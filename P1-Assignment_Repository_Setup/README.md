@@ -1,14 +1,19 @@
 # Liftoff Assignments
 
-This repository is the base repo for all assignments in LaunchCode's [Liftoff](http://education.launchcode.org/liftoff/) course.
+This repository is the base repo for all assignments in
+ LaunchCode's [Liftoff](http://education.launchcode.org/liftoff/) course.
 
 ## Getting Started
 
-If you are enrolled in the Liftoff program, fork this repository and then clone it to your computer. Have a look through the directories. Each one corresponds to an assignment, and the README will provide additional details on the tasks to be carried out.
+If you are enrolled in the Liftoff program, fork this repository
+and then clone it to your computer. Have a look through the directories.
+Each one corresponds to an assignment, and the README will provide
+additional details on the tasks to be carried out.
 
 ### Add your repository to the Liftoff index
 
-Open the `LEARNERS.md` for your class (it should be labeled with a month and date) and add your repository below heading for your Liftoff section. Your link should look like one of the following examples, with appropriate substitutions:
+Open the `LEARNERS.md` for your class (it should be labeled with a
+ month and date) and add your repository below heading for your Liftoff section. Your link should look like one of the following examples, with appropriate substitutions:
 
 ```md
 [LAST_NAME, FIRST_NAME (@GITHUB_USERNAME)](https://github.com/GITHUB_USERNAME/liftoff-assignments)
