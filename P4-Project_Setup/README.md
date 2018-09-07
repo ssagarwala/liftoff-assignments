@@ -11,4 +11,4 @@ By the end, you will have a GitHub repo that contains a working application.
 ### Project Repository
 Change this text with a link to your project repository here.
  Also add a README.md file to your project repository.
-https://github.com/ssagarwala/capstone-books-buyback
+https://github.com/ssagarwala/books-buyback
